@@ -1,5 +1,5 @@
 # fastfinder
-The program is intended for extraction of sequence from a large FASTA (e.g. genome) file using sequence (chromosome, scaffold) name and start-end coordinates.
+This command-line tool is intended for extraction of sequence from a large FASTA (e.g. genome) file using sequence (chromosome, scaffold) name and start-end coordinates.
 
 The FASTA file must be first indexed using samtools:
    samtools faidx genome-file.fasta
